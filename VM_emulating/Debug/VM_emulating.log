@@ -1,0 +1,15 @@
+﻿Построение начато 01.05.2016 23:20:33.
+     1>Проект "c:\Users\kek\documents\visual studio 2012\Projects\VM_emulating\VM_emulating\VM_emulating.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\VM_emulating.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt VM_emulating.cpp
+         VM_emulating.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\kek\documents\visual studio 2012\Projects\VM_emulating\Debug\VM_emulating.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\kek\documents\visual studio 2012\Projects\VM_emulating\Debug\VM_emulating.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\kek\documents\visual studio 2012\Projects\VM_emulating\Debug\VM_emulating.lib" /MACHINE:X86 Debug\VM_emulating.res
+         Debug\stdafx.obj
+         Debug\VM_emulating.obj
+         VM_emulating.vcxproj -> c:\users\kek\documents\visual studio 2012\Projects\VM_emulating\Debug\VM_emulating.exe
+     1>Построение проекта "c:\Users\kek\documents\visual studio 2012\Projects\VM_emulating\VM_emulating\VM_emulating.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.62
